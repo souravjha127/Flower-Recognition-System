@@ -54,4 +54,4 @@ To create a real-time, browser-based flower recognition tool that:
 💡 ML Demonstration – Great showcase of CNN and image recognition applied to real-world data.
 
 ## App Preview
-![App Preview]()
+![App Preview](https://github.com/souravjha127/Flower-Recognition-System/blob/main/Flower_recog_system.jpg)
