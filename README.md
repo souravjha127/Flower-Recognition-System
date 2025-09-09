@@ -2,6 +2,7 @@
 An interactive Streamlit-based web application that identifies flower species from uploaded images using a Convolutional Neural Network (CNN). Built for quick, reliable, and user-friendly flower detection and exploration.
 
 ## Tech Stack
+
 The project was built using the following tools and technologies:
 
 🐍 Python – Programming language for model development and app logic.
